@@ -1,0 +1,8 @@
+CHANGE LOG:
+
+Things that need to be done:
+
+-Switch from using 1 gpg file for storing all password items to 1 gpg file for each password and keep organized.
+
+-Clean up menu
+
